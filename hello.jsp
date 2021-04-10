@@ -1,8 +1,8 @@
 <html>
 <head>
-<title>Sample Application JSP Page</title>
+<title>Sample sameershaik1994 Application JSP Page</title>
 </head>
-<body bgcolor=white>
+<body bgcolor=blue>
 
 <table border="0">
 <tr>
