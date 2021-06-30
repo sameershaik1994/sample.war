@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Sample sameer Application JSP Page</title>
+<title>sameer JSP Page</title>
 </head>
 <body bgcolor=red>
 
